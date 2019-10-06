@@ -1,0 +1,7 @@
+logger:
+  level: Debug
+  syslog: false
+  output: serv.log
+
+server:
+  addr: '34.69.56.157:80'
